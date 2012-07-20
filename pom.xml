@@ -127,4 +127,10 @@
 			</plugin-->
 	 </plugins>  
 </build>
+
+<scm>
+	<connection>scm:git:git@github.com:phanikumarkondepudi/checkingdb.git</connection>
+	<url>scm:git:git@github.com:phanikumarkondepudi/checkingdb.git</url>
+	<developerConnection>scm:git:git@github.com:phanikumarkondepudi/checkingdb.git</developerConnection>
+  </scm>
 </project>
